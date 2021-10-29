@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding-top: 800px;
+    text-align: center;
 }
 
 .menu {
@@ -41,6 +42,7 @@ h1 {
     line-height: 1.2;
     font-family: fantasy;
     font-weight: 300;
+    text-align: center;
 }
 
 #name {
@@ -100,4 +102,17 @@ p {
     background-color: cornflowerblue;
 }
 
+a {
+    text-decoration: none;
+    
+    
+}
+
+.article:hover {
+    color: darkblue;
+}
+
+html {
+    scroll-behavior: smooth;
+}
 
